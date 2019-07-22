@@ -10,9 +10,7 @@
 * 下载源码:
 
 ```shell
-git clone git@github.com:jhao104/proxy_pool.git
-
-或者直接到https://github.com/jhao104/proxy_pool 下载zip文件
+git clone git@github.com:LunaFlow/book_spicers.git
 ```
 
 * 安装依赖:
