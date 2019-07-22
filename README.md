@@ -1,7 +1,7 @@
 # book_spicers
 图灵社区图书信息爬取
 
-![](.\assets\1563771924771.png)
+![](./assets/1563771924771.png)
 
 * 支持版本:  ![](https://img.shields.io/badge/Python-3.x-blue.svg)
 
